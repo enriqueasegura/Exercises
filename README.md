@@ -1,2 +1,2 @@
 # Exercises
-Repository for Coding Samples to Teach Myself New Physics!
+Repository for Class Homework in Computational Physics
