@@ -1,2 +1,2 @@
 # Exercises
-Repository for Class Homework in Computational Physics
+Repository for Class Homework that are in Computational Physics.
